@@ -1,0 +1,64 @@
+body{
+    
+    background-color: #f7f0e8; 
+    
+}
+
+div.team{
+    width: 1200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+div.teammeate{
+    border-radius: 350px;
+    width: 250px;
+    display: inline-block;
+    padding: 50px;
+    font-size: 20px;
+    
+ 
+     
+     
+}
+img{
+    width: 150px;
+    border-radius:10%;
+    vertical-align:top;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #ffe4bb;
+ 
+  
+    
+    
+}
+p{
+    text-align: left;
+    
+    
+}
+img:hover{
+    transform: scale(1.2);
+    transition:0.5s;
+    border-radius: 15% ;
+     border: 2px solid black;
+    background-color: #ffc875;
+  
+    
+   
+}
+a.link{
+    border: 2px solid black;
+    padding: 2%;
+    background-color: #b7b7b7;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+a.link:hover{
+    border: 2px solid black;
+    padding: 3%;
+    background-color: #888686;
+}
